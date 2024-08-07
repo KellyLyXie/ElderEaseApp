@@ -13,3 +13,6 @@ Friends and Chats: Facilitates communication between elders and their friends.
 Daily Weather Updates: Integrated Open-Weather API to display daily weather updates, enhancing the user experience.
 # Demo
 Check out the demo video of our app here.
+# License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
