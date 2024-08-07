@@ -33,7 +33,7 @@ The Health & Safety Alerts App is designed to provide elders with a comprehensiv
 5. Build and run the project on your desired iOS device or simulator.
 
 # Demo
-[![Watch the demo]](https://youtu.be/3Vj0Yvy_sj0)
+[[Watch the demo]](https://youtu.be/3Vj0Yvy_sj0)
 
 
 ## Contributing
